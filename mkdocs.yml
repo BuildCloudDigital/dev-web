@@ -1,0 +1,48 @@
+---
+
+site_name: Build Cloud Digital (Dev)
+repo_name: BuildCloudDigital/dev-web
+repo_url: https://github.com/BuildCloudDigital/dev-web
+theme:
+  name: material
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - content.code.select
+    - content.code.copy
+    - content.action.edit
+    - navigation.top
+    - content.code.annotate
+  palette:
+    primary: blue
+    custom:
+      primary: "#07538d"  # BCD Blue
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - md_in_html
+  - admonition
+  - pymdownx.details
+
+nav:
+  - Home: index.md
