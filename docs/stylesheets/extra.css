@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Century+Gothic:wght@400;700&display=swap');
+
+/* Apply the custom font to the entire HTML document */
+html {
+  font-family: 'Century Gothic', sans-serif;
+}
+
+/* Apply the font to each heading level separately */
+h1 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: bold !important; /* Force the bold weight */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}
+
+h2 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: normal; /* Default font weight for h2 */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}
+
+h3 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: normal; /* Default font weight for h3 */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}
+
+h4 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: normal; /* Default font weight for h4 */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}
+
+h5 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: normal; /* Default font weight for h5 */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}
+
+h6 {
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: normal; /* Default font weight for h6 */
+  color: #4cae4f !important; /* Force the color to override theme styles */
+}

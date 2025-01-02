@@ -46,3 +46,28 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - About Us:
+      - About: about/about-us.md
+  - AWS:
+      - AWS: aws/aws.md
+  - Azure:
+    - Azure: azure/azure.md
+  - Github:
+    - Github: github/github.md
+  - Insights:
+    - Insights: insights/insights.md
+  - Posts:
+    - Modern Technology Workplace: posts/post1.md
+    - Observability So you do not need to Worry: posts/post2.md
+    - Built to Last or it hardly lasted: posts/post3.md
+    - Modernise Storage Legacy before its too late: posts/post4.md
+    - Can you really build two clouds like one: posts/post5.md
+    - When are Migrations the last option: posts/post6.md
+    - Automated Pipelines for Legacy: posts/post7.md
+    - Sovereign Networks are not always difficult: posts/post8.md
+    - Cloud Foundations in Hours: posts/post9.md
+    - Launch: posts/post10.md
+    - Focus over Speed: posts/post.md
+  - Services: services/services.md
+  - Downloads: downloads/downloads.md
+
