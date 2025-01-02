@@ -3,7 +3,7 @@
     
     # yamllint disable-line rule:truthy
     on:
-      commit:
+      push:
         branches:
           - main
     
