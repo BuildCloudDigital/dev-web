@@ -1,13 +1,3 @@
-+++
-author = "Build Cloud Digital, 2024"
-title = "Use Cases"
-date = "2019-03-09"
-tags = [
-    "markdown",
-    "text",
-]
-+++
-
 # Nutanix Bare Metal Migration Use Case
 
 ### Overview

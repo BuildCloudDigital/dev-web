@@ -1,11 +1,3 @@
-+++
-title = 'Services'
-slug = 'services'
-description = 'Build Cloud Digital offers a suite of niche digital cloud based services that enable organisations to accelerate into AWS, Azure or Private clouds with ease and security.'
-disableComments = true
-url = '/services/services.html'
-+++
-
 Professional service offerings for AWS and Azure cloud foundations encompass a comprehensive suite of solutions, addressing various aspects such as networking, security, identity management, integrations, modernisation, Active Directory, shared services, and migration of workloads. These services are designed to help organisations plan, deploy, optimise, and manage their cloud infrastructure effectively.
 
 ## Networking Services:

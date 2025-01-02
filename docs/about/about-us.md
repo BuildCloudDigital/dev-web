@@ -1,10 +1,3 @@
-+++
-title = 'About Us'
-slug = 'about-us'
-description = 'Our People.'
-disableComments = true
-+++
-
 <style>
 table {
     border-collapse: collapse;
